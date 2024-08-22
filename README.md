@@ -10,12 +10,14 @@ This repository includes various C++ programs and projects covering fundamental 
 
 To get started with the projects in this repository, follow these steps:
 
-1. **Clone the Repository:**
-
+1. **Clone the repository**:
    ```bash
-   git clone https://github.com/adityatambe31/Learnt-Cpp.git
+   git clone https://github.com/adityatambe31/Learnt-Java.git
+    ```
+2. **Navigate into the project directory:**
+   ```bash
+   cd Learnt-Java
    ```
-
 ## 📖 Usage
 The repository is organized into different folders based on topics and concepts. Each folder contains C++ source files (.cpp) and, in some cases, header files (.h).
 
