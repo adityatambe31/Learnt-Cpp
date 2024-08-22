@@ -16,7 +16,7 @@ To get started with the projects in this repository, follow these steps:
     ```
 2. **Navigate into the project directory:**
    ```bash
-   cd Learnt-Java
+   cd Learnt-Cpp
    ```
 ## 📖 Usage
 The repository is organized into different folders based on topics and concepts. Each folder contains C++ source files (.cpp) and, in some cases, header files (.h).
